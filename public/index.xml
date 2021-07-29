@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayoub Gharbi</title>
+    <link>https://www.ayoub-gharbi.org/</link>
+    <description>Recent content on Ayoub Gharbi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.ayoub-gharbi.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About ME</title>
+      <link>https://www.ayoub-gharbi.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ayoub-gharbi.org/about/</guid>
+      <description>I’m a 30 years old enthusiastic game programmer from Tunisia. Graduated in 2015 from ESPRIT as a software engineer with a mobile development background. I have been making games since 2012 and I’m currently an independant contractor at TRU LUV working on #SelfCare. I believe that to keep up with the fast-paced technology and innovations popping off every single day, you&amp;rsquo;ve got to love what you are doing.
+ I’M A FLEXIBLE PROGRAMMER WITH EAGERNESS TO LEARN I don’t only code because it’s part of my day-to-day job but it’s deeper than that.</description>
+    </item>
+    
+    <item>
+      <title>Contact ME</title>
+      <link>https://www.ayoub-gharbi.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ayoub-gharbi.org/contact/</guid>
+      <description>Want Contact? Want to talk or you have an offer for me? Feel free to reach me.</description>
+    </item>
+    
+    <item>
+      <title>MY RESUME</title>
+      <link>https://www.ayoub-gharbi.org/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ayoub-gharbi.org/resume/</guid>
+      <description>KEY QUALIFICATIONS Experienced game programmer with a background in mobile development and around 6 years of experience with aptitude for solving problems.
+Highly organized, self-motivated and proficient in guiding product cycles from conception to completion.
+Able to stay comfortable with ambiguity and remain calm in the face of the unexpected.
+ PROFESSIONAL EXPERIENCE TRU LUV, CANADA (REMOTELY)
+JAN 2021 - PRESENT
+ NUKEDCOCKROACH, TUNISIA
+OCT 2016 - DEC 2020</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.ayoub-gharbi.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ayoub-gharbi.org/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
