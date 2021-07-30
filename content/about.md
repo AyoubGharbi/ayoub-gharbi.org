@@ -6,6 +6,7 @@ description = "about"
 +++
 
 ---------------------------
+
 I’m a 30 years old enthusiastic game programmer from [Tunisia](https://www.youtube.com/watch?v=OtJVufo3IrA). 
 Graduated in 2015 from ESPRIT as a software engineer with a mobile development background.
 I have been making games since 2012 and I’m currently an independant contractor at [TRU LUV](https://truluv.ai/) working on [#SelfCare](https://apps.apple.com/us/app/selfcare/id1378384555).  I believe that to keep up with the fast-paced technology and innovations popping off every single day, you've got to love what you are doing.

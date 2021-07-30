@@ -5,7 +5,18 @@
     <link>https://www.ayoub-gharbi.org/</link>
     <description>Recent content on Ayoub Gharbi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.ayoub-gharbi.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ayoub-gharbi.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imagine Cup 2014</title>
+      <link>https://www.ayoub-gharbi.org/experiences/experiences/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ayoub-gharbi.org/experiences/experiences/</guid>
+      <description>Imagine cup was one of the best experiences in my whole life as a student. I wasn&amp;rsquo;t expecting to get the first place in Tunisia since it was the first time I participate in this kind of competitions but our team was strong and we had variety of expertises that facilitated split of tasks and made us work fast and efficiently.
+ Imagine Cup Book (© Artist)    0th</description>
+    </item>
+    
     <item>
       <title>About ME</title>
       <link>https://www.ayoub-gharbi.org/about/</link>
@@ -38,15 +49,6 @@ Able to stay comfortable with ambiguity and remain calm in the face of the unexp
 JAN 2021 - PRESENT
  NUKEDCOCKROACH, TUNISIA
 OCT 2016 - DEC 2020</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://www.ayoub-gharbi.org/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ayoub-gharbi.org/projects/</guid>
-      <description></description>
     </item>
     
   </channel>
