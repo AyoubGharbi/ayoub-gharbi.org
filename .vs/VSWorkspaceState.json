@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\layouts",
+    "\\content\\experiences",
+    "\\content\\experiences\\Imagine Cup",
     "\\layouts\\shortcodes",
     "\\layouts\\_default"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\content\\experiences\\Imagine Cup\\index.md",
   "PreviewInSolutionExplorer": false
 }

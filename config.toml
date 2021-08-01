@@ -104,9 +104,9 @@ disqusShortname = "GhAyoub"
 #                url = "posts"
 
             [[languages.en.menu.main]]
-                name = "Experiences"
+                name = "Life Stories"
                 weight = 3
-                url = "experiences"
+                url = "lifestories"
                 
             [[languages.en.menu.main]]
                 name = "Contact"

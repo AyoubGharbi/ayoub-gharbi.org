@@ -1,5 +1,5 @@
 +++
-title = "MY RESUME"
+title = "RESUME"
 slug = "resume"
 thumbnail = "images/thumbnail_website.png"
 description = "resume"
@@ -19,9 +19,11 @@ Able to stay comfortable with ambiguity and remain calm in the face of the unexp
 
 ## PROFESSIONAL EXPERIENCE
 
-**[TRU LUV](https://truluv.ai), CANADA (REMOTELY)**
+**[TRU LUV](https://truluv.ai), CANADA**
 
 JAN 2021 - PRESENT
+
+**AI & Tools Developer (Contractor/Remotely)**
 
 ---------------------------
 
@@ -31,9 +33,11 @@ OCT 2016 - DEC 2020
 
 ---------------------------
 
-**[360MEDLINK](https://360medlink.com), CANADA (FREELANCE/REMOTELY)**
+**[360MEDLINK](https://360medlink.com), CANADA**
 
 OCT 2017 - NOV 2018
+
+**Game Developer (Freelance/Remotely)**
 
 ---------------------------
 
@@ -41,13 +45,15 @@ OCT 2017 - NOV 2018
 
 DEC 2015 - MAY 2016
 
+**Game Developer (Participant)**
+
 ---------------------------
 
 **[KRITZELKRATZ GMBH](http://www.kritzelkratz.de), GERMANY**
 
 DEC 2014 - JUN 2015
 
-Tools & Shader Developer [FYP]
+**Tools & Shader Developer (Final Year Project)**
 
 ---------------------------
 
@@ -55,13 +61,15 @@ Tools & Shader Developer [FYP]
 
 NOV 2013 - DEC 2014
 
-GAME DEVELOPER [PARTICIPANT]
+**Game Developer (Participant)**
 
 ---------------------------
 
 **[TUNISIAN GAME DEVELOPERS ASSOCIATION](https://www.facebook.com/TGD2012), TUNISIA**
 
 JUL 2013 - DEC 2014
+
+**President**
 
 ---------------------------
 
@@ -82,6 +90,4 @@ SEP 2012 - JUN 2015
 |  UNITY3D   |      EXPERT       |
 |  JAVA   |      INTERMEDIATE |
 |  C++   |      INTERMEDIATE     |
-|  UNREAL ENGINE   |      BEGINNER     |
-|  SWIFT  |      BEGINNER     |
 

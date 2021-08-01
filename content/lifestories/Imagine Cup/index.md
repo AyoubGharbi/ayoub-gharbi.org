@@ -1,6 +1,6 @@
 +++
 title = "Imagine Cup 2014"
-slug = "experiences"
+slug = "imaginecup2014"
 thumbnail = "images/thumbnail_website.png"
 date = "2021-07-30"
 description = "imagine cup"
