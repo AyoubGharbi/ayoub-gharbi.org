@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\experiences",
-    "\\content\\experiences\\Imagine Cup",
-    "\\layouts\\shortcodes",
-    "\\layouts\\_default"
+    "\\content\\lifestories",
+    "\\content\\lifestories\\Imagine Cup",
+    "\\layouts",
+    "\\themes\\coder-portfolio"
   ],
-  "SelectedNode": "\\content\\experiences\\Imagine Cup\\index.md",
+  "SelectedNode": "\\content\\lifestories\\Imagine Cup\\index.md",
   "PreviewInSolutionExplorer": false
 }
